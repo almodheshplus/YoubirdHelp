@@ -1,6 +1,8 @@
 ## About Youbird
 
 Welcome, Youbird is a Youtube video Downloader, In future we will add more and more platforms.
+
+Help Us Improving Youbird by Adding any problem you have in Issues Section, [Add Issue](https://github.com/almodheshplus/YoubirdHelp/issues/new/choose)
 ## Table Of Contents
 
 1. [How To Install](#how-to-install)
@@ -14,7 +16,7 @@ Welcome, Youbird is a Youtube video Downloader, In future we will add more and m
 
 1. Open :file_folder: `install.php` into your Browser, Link will be like `https://yourwebsite.com/install.php`
 2. Select Color Palette
-> For `Color Palette` Select box You have 4 Color Palettes Choose what you prefere from Them, Palettes are in the image below, You Can See Palettes in live Demo: [Palette 1](https://youbird.4up4.com/?p=1), [Palette 2](https://youbird.4up4.com/?p=2), [Palette 3](https://youbird.4up4.com/?p=3), [Palette 4](https://youbird.4up4.com/?p=4)
+> For `Color Palette` Select box You have 4 Color Palettes Choose what you prefere from Them, You Can See Palettes live Demo: [Palette 1](https://youbird.4up4.com/?p=1), [Palette 2](https://youbird.4up4.com/?p=2), [Palette 3](https://youbird.4up4.com/?p=3), [Palette 4](https://youbird.4up4.com/?p=4)
 
 ![Youbird Color Palettes](/assets/ybPalettes.png)
 
@@ -22,8 +24,6 @@ Welcome, Youbird is a Youtube video Downloader, In future we will add more and m
 4. Enter Social Media Image Link
 
 > `Social Media Image Link` Field for the image that appers when you paste your website link into social media
-
-> See this image to understand fields
 
 ![Fields](/assets/fields.png)
 
