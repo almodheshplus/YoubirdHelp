@@ -2,14 +2,14 @@
 
 Welcome :raising_hand_man:
 :information_desk_person: Youbird is a Youtube video Downloader, In future we will add more and more platforms.
-![Build Status]
-![Latest Stable Version]
-![License]
+[![Build Status]]
+[![Latest Stable Version]]
+[![License]]
 ---
 ## Table Of Contents
 
 1. [How To Install](#how-to-install)
-    -- [Edit menu links](#edit-menu-links)
+    - [Edit menu links](#edit-menu-links)
 2. [Advertisement Units](#advertisement-units)
 3. [Edit Website Informations after installing](#edit-website-informations-after-installing)
 4. [Add Code in head Tag](#add-code-in-head-tag)
