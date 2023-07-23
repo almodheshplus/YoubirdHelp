@@ -17,14 +17,18 @@ Welcome, Youbird is a Youtube video Downloader, In future we will add more and m
 > For `Color Palette` Select box You have 4 Color Palettes Choose what you prefere from Them, Palettes are in the image below, You Can See Palettes in live Demo: [Palette 1](https://youbird.4up4.com/?p=1), [Palette 2](https://youbird.4up4.com/?p=2), [Palette 3](https://youbird.4up4.com/?p=3), [Palette 4](https://youbird.4up4.com/?p=4)
 
 ![Youbird Color Palettes](/assets/ybPalettes.png)
+
 3. Enter your website informations like Website URL(or website link)
 4. Enter Social Media Image Link
+
 > `Social Media Image Link` Field for the image that appers when you paste your website link into social media
 
 > See this image to understand fields
 
 ![Fields](/assets/fields.png)
+
 5. On/Off Custom Download Page
+
 > Custom Download Page: if it on(Recommended) download link will be like `https://yourwebsite.com/download/?title=Example&mimetype=video/mp4&link=https://Source Url`, if it off download link will be like `https://source Url`
 
 3. After end filling data requested Press Install Button
