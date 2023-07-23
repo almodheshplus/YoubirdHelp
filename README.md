@@ -17,11 +17,7 @@ Help Us Improving Youbird by Adding any problem you have in Issues Section, [Add
 1. Open :file_folder: `install.php` into your Browser, Link will be like `https://yourwebsite.com/install.php`
 2. Select Color Palette
 > For `Color Palette` Select box You have 4 Color Palettes Choose what you prefere from Them.
-You Can See Palettes live Demo:
-> -[Palette 1](https://youbird.4up4.com/?p=1)
-> -[Palette 2](https://youbird.4up4.com/?p=2)-
-> -[Palette 3](https://youbird.4up4.com/?p=3)
-> -[Palette 4](https://youbird.4up4.com/?p=4)
+You Can See Palettes live Demo: [Palette 1](https://youbird.4up4.com/?p=1), [Palette 2](https://youbird.4up4.com/?p=2), [Palette 3](https://youbird.4up4.com/?p=3), [Palette 4](https://youbird.4up4.com/?p=4)
 
 ![Youbird Color Palettes](/assets/ybPalettes.png)
 
@@ -34,7 +30,7 @@ You Can See Palettes live Demo:
 
 5. On/Off Custom Download Page
 
-> Custom Download Page: if it on(Recommended) download link will be like `https://yourwebsite.com/download/?title=Example&mimetype=video/mp4&link=https://Source Url`, if it off download link will be like `https://source Url`
+> Custom Download Page: if it is On**(Recommended)** download link will be like `https://yourwebsite.com/download/?title=Example&mimetype=video/mp4&link=https://Source Url`, if it Off download link will be like `https://source Url`
 
 3. After end filling data requested Press Install Button
 4. For Security reasons Delete `install.php` form your website
