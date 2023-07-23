@@ -1,11 +1,10 @@
 ## About Youbird
 
 Welcome, Youbird is a Youtube video Downloader, In future we will add more and more platforms.
----
 ## Table Of Contents
 
 1. [How To Install](#how-to-install)
-    -- [Edit menu links](#edit-menu-links)
+    - [Edit menu links](#edit-menu-links)
 2. [Advertisement Units](#advertisement-units)
 3. [Edit Website Informations after installing](#edit-website-informations-after-installing)
 4. [Add Code in head Tag](#add-code-in-head-tag)
@@ -14,16 +13,18 @@ Welcome, Youbird is a Youtube video Downloader, In future we will add more and m
 ## How To Install
 
 1. Open :file_folder: `install.php` into your Browser, Link will be like `https://yourwebsite.com/install.php`
-2. Enter your website informations like Website URL(or website link)
+2. Select Color Palette
 > For `Color Palette` Select box You have 4 Color Palettes Choose what you prefere from Them, Palettes are in the image below.
 ![Youbird Color Palettes](/assets/ybPalettes.png)
 **OR**
 You Can See Palette live demo: [Palette 1](https://youbird.4up4.com/?p=1), [Palette 2](https://youbird.4up4.com/?p=2), [Palette 3](https://youbird.4up4.com/?p=3), [Palette 4](https://youbird.4up4.com/?p=4)
+3. Enter your website informations like Website URL(or website link)
+4. Enter Social Media Image Link
 > `Social Media Image Link` Field for the image that appers when you paste your website link into social media
 > See this image to understand fields
 ![Fields](/assets/fields.png)
-> Custom Download Page: if it on(Recommended) download link will be like `https://yourwebsite.com/download/?title=Example&mimetype=video/mp4&link=https://Source Url`
-> Custom Download Page: if it off download link will be like `https://source Url`
+5. On(Recommended)/Off Custom Download Page
+> Custom Download Page: if it on(Recommended) download link will be like `https://yourwebsite.com/download/?title=Example&mimetype=video/mp4&link=https://Source Url`, Custom Download Page: if it off download link will be like `https://source Url`
 3. After end filling data requested Press Install Button
 4. For Security reasons Delete `install.php` form your website
 5. Now Your website is ready
