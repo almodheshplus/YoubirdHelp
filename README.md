@@ -1,25 +1,21 @@
-# :grey_question: About Youbird
+## About Youbird
 
-Welcome :raising_hand_man:
-:information_desk_person: Youbird is a Youtube video Downloader, In future we will add more and more platforms.
-[![Build Status]]
-[![Latest Stable Version]]
-[![License]]
+Welcome, Youbird is a Youtube video Downloader, In future we will add more and more platforms.
 ---
 ## Table Of Contents
 
 1. [How To Install](#how-to-install)
-    - [Edit menu links](#edit-menu-links)
+    -- [Edit menu links](#edit-menu-links)
 2. [Advertisement Units](#advertisement-units)
 3. [Edit Website Informations after installing](#edit-website-informations-after-installing)
 4. [Add Code in head Tag](#add-code-in-head-tag)
 5. [Create My Own Palette](#create-your-own-palette)
 ---
-# How To Install
+## How To Install
 
 1. Open :file_folder: `install.php` into your Browser, Link will be like `https://yourwebsite.com/install.php`
 2. Enter your website informations like Website URL(or website link)
-> For `Color Palette` Select box You have 4 Color Palettes Choose what you prefere from Them, Palettes are in the image below:
+> For `Color Palette` Select box You have 4 Color Palettes Choose what you prefere from Them, Palettes are in the image below.
 ![Youbird Color Palettes](/assets/ybPalettes.png)
 **OR**
 You Can See Palette live demo: [Palette 1](https://youbird.4up4.com/?p=1), [Palette 2](https://youbird.4up4.com/?p=2), [Palette 3](https://youbird.4up4.com/?p=3), [Palette 4](https://youbird.4up4.com/?p=4)
@@ -61,12 +57,12 @@ You Can See Palette live demo: [Palette 1](https://youbird.4up4.com/?p=1), [Pale
 ```
 2. You can Add, Edit Or Even Delete a menu item
 3. In case you can not deal with code above contact with [Youbird Developer :technologist:](https://khamsat.com/user/almodheshplus2000)
-# Advertisement Units
+## Advertisement Units
 
 Youbird script has 4 adUnits stored in Home Directory by name `adUnit[ Unit Number ].html`
 See this below to under stand:
 ![Advertisement Units](/assets/adunits.png)
-# Edit Website Informations after installing
+## Edit Website Informations after installing
 
 Current Youbird has no dashboard
 All website setting are stored in Home Directory by name `settings.json`
@@ -91,13 +87,13 @@ file content maybe look like this:
 }
 ```
 In case you can not deal with code above contact with [Youbird Developer :technologist:](https://khamsat.com/user/almodheshplus2000)
-# Add Code in head Tag
+## Add Code in head Tag
 
 You Can add Custom code such as **Adsense Code, Gtag Code, Google Analytics, etc.**
 1. Open `customHeadCode.html`
 2. Add Code
 3. Save
-# Create Your Own Palette
+## Create Your Own Palette
 
 All The data stored into `.json` files, You can find palettes in `colorPalettes` folder
 To Create your own Palette:
