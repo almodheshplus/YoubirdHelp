@@ -1,8 +1,10 @@
 ## About Youbird
 
-Welcome, Youbird is a Youtube video Downloader, In future we will add more and more platforms.
+Welcome, Thank You :heart: for Using Youbird
 
-Help Us Improving Youbird by Adding any problem you have in Issues Section, [Add Issue](https://github.com/almodheshplus/YoubirdHelp/issues/new/choose)
+Youbird is a Youtube video Downloader, In future we will add more and more platforms.
+
+Help Us Improving Youbird by Adding any problem you had in Issues Section, [Add Issue](https://github.com/almodheshplus/YoubirdHelp/issues/new/choose)
 ## Table Of Contents
 
 1. [How To Install](#how-to-install)
@@ -30,7 +32,7 @@ You Can See Palettes live Demo: [Palette 1](https://youbird.4up4.com/?p=1), [Pal
 
 5. On/Off Custom Download Page
 
-> Custom Download Page: if it is On**(Recommended)** download link will be like `https://yourwebsite.com/download/?title=Example&mimetype=video/mp4&link=https://Source Url`, if it Off download link will be like `https://source Url`
+> Custom Download Page: if it is On(**Recommended**) download link will be like `https://yourwebsite.com/download/?title=Example&mimetype=video/mp4&link=https://Source Url`, if it Off download link will be like `https://source Url`
 
 3. After end filling data requested Press Install Button
 4. For Security reasons Delete `install.php` form your website
